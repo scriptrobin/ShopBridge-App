@@ -22,6 +22,7 @@ Shopbridge is a webapplication.That helps to add new items to inventory and modi
     open https://localhost:8000
 
 -------------------------------------------------------------------
+ # Screenshots
 
 **Add Inventory:**
 
@@ -37,7 +38,7 @@ Shopbridge is a webapplication.That helps to add new items to inventory and modi
 
 ------------------------------------------------------------------
 
-**🕔 Time Tracking**
+# 🕔 Time Tracking
 
 * Frontend Functionality - 2 hours
 
