@@ -4,6 +4,11 @@ Shopbridge is a webapplication.That helps to add new items to inventory and modi
 
 This project is built in AngularJS and NodeJS
 
+**Frameworks**
+
+   * Frontend - AngularJS
+   
+   * Backend - NodeJS
 
 **NPM should be installed first**
 
@@ -36,8 +41,8 @@ This project is built in AngularJS and NodeJS
 
 **🕔 Time Tracking**
 
-Frontend Functionality - 2 hours
+* Frontend Functionality - 2 hours
 
-Frontend Designs - 1 hours
+* Frontend Designs - 1 hours
 
-Backend  Functionality - 2 hours
+* Backend  Functionality - 2 hours
