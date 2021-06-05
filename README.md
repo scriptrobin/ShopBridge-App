@@ -13,7 +13,7 @@ This project is built in AngularJS and NodeJS
 
 
 
-[RUN]()
+ **RUN**
 
     npm start
     localhost:8000
