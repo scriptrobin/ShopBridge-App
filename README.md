@@ -5,6 +5,20 @@ Shopbridge is an webapplication.That helps to add new items to inventory and mod
 This project is built in AngularJS and NodeJS
 
 
+**NPM should be installed first**
+
+    git clone https://github.com/GoogleChrome/lighthouse
+    cd shopbridge-App
+    npm install
+
+
+
+[RUN]()
+
+    npm start
+    localhost:8000
+
+
 **Add Inventory:**
 
 ![image](https://user-images.githubusercontent.com/40335849/120881293-a3258c00-c5ed-11eb-8c81-7ba2deb1e5f1.png)
@@ -16,17 +30,3 @@ This project is built in AngularJS and NodeJS
 
 **Edit Items :**
 ![image](https://user-images.githubusercontent.com/40335849/120881450-c3097f80-c5ee-11eb-9120-05b62f1bde55.png)
-
-
-**NPM should be installed first**
-
-    git clone https://github.com/GoogleChrome/lighthouse
-    cd shopbridge-App
-    npm install
-
-
-
-**Run**
-
-    npm install
-    localhost:8000
