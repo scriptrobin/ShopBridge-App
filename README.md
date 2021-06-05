@@ -34,8 +34,10 @@ This project is built in AngularJS and NodeJS
 
 ------------------------------------------------------------------
 
-**Time Tracking**
+**🕔 Time Tracking**
 
 Frontend Functionality - 2 hours
+
 Frontend Designs - 1 hours
+
 Backend  Functionality - 2 hours
