@@ -1,6 +1,6 @@
 # ShopBridge
 
-Shopbridge is an webapplication.That helps to add new items to inventory and modify the inventory details.
+Shopbridge is a webapplication.That helps to add new items to inventory and modify the inventory details.
 
 This project is built in AngularJS and NodeJS
 
@@ -16,8 +16,9 @@ This project is built in AngularJS and NodeJS
  **RUN**
 
     npm start
-    localhost:8000
+    open https://localhost:8000
 
+-------------------------------------------------------------------
 
 **Add Inventory:**
 
@@ -30,3 +31,11 @@ This project is built in AngularJS and NodeJS
 
 **Edit Items :**
 ![image](https://user-images.githubusercontent.com/40335849/120881450-c3097f80-c5ee-11eb-9120-05b62f1bde55.png)
+
+------------------------------------------------------------------
+
+**Time Tracking**
+
+Frontend Functionality - 2 hours
+Frontend Designs - 1 hours
+Backend  Functionality - 2 hours
