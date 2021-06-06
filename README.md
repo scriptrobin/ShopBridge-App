@@ -10,7 +10,7 @@ Shopbridge is a webapplication.That helps to add new items to inventory and modi
 
 **NPM should be installed first**
 
-    git clone https://github.com/GoogleChrome/lighthouse
+    git clone https://github.com/scriptrobin/ShopBridge-App.git
     cd ShopBridge-App
     npm install
 
